@@ -104,16 +104,16 @@ img {
  }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #ffa500;
+  color: #00AFB1;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  	color: #ffa500;
+  	color: #00B0AD;
   	background-color: transparent;
 }
 .navbar-default .navbar-toggle {
-  	background: #d54ab6;
+  	background: #60B9B0;
   	border-radius: 0px;
    	border: none;
    	margin-top: 20px;
