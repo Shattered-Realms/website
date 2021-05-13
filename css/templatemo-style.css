@@ -221,7 +221,7 @@ img {
 
 /* team section */
 #team {
-  padding-top: 20px;
+  padding-top: 25px;
   padding-bottom: 80px;
 }
 #team .teamspacer {
@@ -247,7 +247,7 @@ img {
 	height:500px;
 }
 #team h4 {
-    color: #d54ab6;
+    color: #4BB0B7;
     font-size: 14px;
     text-align: center;
 }
@@ -455,4 +455,28 @@ footer a:hover {
 }
 .footerbox {
 	border: solid 1px #3E3E3E;
+}
+.racebox {
+	text-align: left;
+	padding-bottom: 10px;
+	font-size: 16px;
+}
+.racepicture {
+	float: left;
+	height: auto;
+	width: 400px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+}
+a:hover {
+  color: #949494;
+}
+a {
+  color: #B9E2E4;
+}
+.racetext {
+	padding-top: 30px;
+}
+.racesubheader {
+	padding-bottom: 20px;
 }
