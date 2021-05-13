@@ -170,7 +170,7 @@ img {
 .divider .divider-wrapper {
 /*  padding: 40px 20px 40px 20px; */
 	height: 250px;
-	width: 305px;
+	/* width: 305px; */
 	padding-left:40px;
 	padding-right:40px;
 	padding-top:20px;
@@ -453,7 +453,8 @@ footer a:hover {
   }
 }
 .maintitle {
-	-webkit-text-stroke: 2px black;
+    -webkit-text-stroke: 2px black;
+    font-size: 65px;
 }
 .footerbox {
 	border: solid 1px #3E3E3E;
