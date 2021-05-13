@@ -246,6 +246,8 @@ img {
 	  padding-right: 20px;
 	width:305px;
 	height:500px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 #team h4 {
     color: #4BB0B7;
@@ -440,7 +442,6 @@ footer a:hover {
 	  padding-top: 20px;
 	  padding-right: 20px;
 	  padding-left: 20px;
-	  margin-left: 25px;
   }
   #contact h3 {
     padding-top: 20px;
