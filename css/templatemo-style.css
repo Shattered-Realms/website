@@ -483,3 +483,13 @@ a {
 .racesubheader {
 	padding-bottom: 20px;
 }
+.racepicturetop {
+	padding-bottom: 20px;
+}
+.racepictureright {
+	float: right;
+	height: auto;
+	width: 400px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+}
