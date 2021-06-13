@@ -496,3 +496,6 @@ a {
 .rulescentertext {
 	text-align: center;
 }
+.italictext {
+	font-style: italic; 
+}
